@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">simple_application_kotlin</string>
+
+    <string name="movie_title">Judul Film Disney</string>
+    <string name="description">Deskripsi</string>
+    <string name="disney_details">Disney Movies adalah kumpulan film yang diproduksi oleh The Walt Disney Company, perusahaan hiburan terkemuka. Film-film ini menampilkan berbagai cerita yang cocok untuk berbagai kalangan penonton, dari anak-anak hingga dewasa. Dari petualangan ajaib hingga cerita animasi yang indah, Disney Movies menawarkan pengalaman sinematik yang memikat.</string>
+    <string name="disney_title">Disney Movies</string>
+    <string-array name="movie_name">
+        <item>Moana</item>
+        <item>The Lion King</item>
+        <item>Frozen</item>
+        <item>Toy Story</item>
+        <item>Beauty and the Beast</item>
+        <item>Aladdin</item>
+        <item>Finding Nemo</item>
+        <item>Cinderella</item>
+        <item>Zootopia</item>
+        <item>The Little Mermaid</item>
+    </string-array>
+    <string-array name="movie_description">
+         <item>
+            Moana adalah kisah petualangan seorang pahlawan wanita Polinesia yang berani, Moana.
+            Bersama demigod Maui, mereka berlayar melintasi lautan yang berbahaya untuk menyelamatkan pulau mereka.
+            Menyajikan pesan tentang keberanian, pertemanan, dan keberagaman budaya Polinesia.
+        </item>
+        <item>
+            The Lion King mengisahkan perjalanan Simba, seekor singa muda yang harus belajar tentang
+            tanggung jawab dan keberanian untuk mengambil tempatnya sebagai raja di hutan savana.
+            Cerita epik ini menyentuh hati dengan tema-tema keluarga, keadilan, dan keberanian.
+        </item>
+        <item>
+            Frozen adalah kisah tentang persahabatan yang menghangatkan hati antara Elsa dan Anna,
+            di tengah dunia yang terkena kutukan es abadi. Musik yang indah dan cerita yang penuh emosi
+            membuat Frozen menjadi salah satu film animasi yang paling disukai oleh semua kalangan.
+        </item>
+        <item>
+            Toy Story membawa kita ke dalam petualangan mainan hidup yang seru dan penuh tawa.
+            Woody dan Buzz Lightyear mengajarkan kita tentang persahabatan sejati dan
+            bagaimana mengatasi perubahan dalam hidup.
+        </item>
+        <item>
+            Beauty and the Beast mengisahkan kisah cinta yang indah antara Belle, seorang gadis cerdas,
+            dan Beast, pangeran yang terkutuk menjadi makhluk aneh. Cerita ini mengajarkan kita
+            tentang nilai kecantikan yang sejati datang dari dalam hati.
+        </item>
+        <item>
+            Aladdin adalah cerita tentang petualangan, keajaiban, dan cinta sejati. Dengan bantuan
+            lampu ajaib dan jin, Aladdin menghadapi tantangan untuk mendapatkan hati Putri Jasmine.
+        </item>
+        <item>
+            Finding Nemo mengikuti petualangan Marlin, seekor ikan clownfish, yang mencari anaknya yang tersesat,
+            Nemo, di lautan luas. Cerita ini mengajarkan nilai keberanian dan arti sejati dari keluarga.
+        </item>
+        <item>
+            Cinderella adalah kisah klasik tentang seorang gadis muda yang bermimpi lebih besar, dan
+            dengan bantuan peri, dia memiliki kesempatan untuk pergi ke pesta dansa kerajaan.
+            Menyampaikan pesan tentang impian dan keberanian.
+        </item>
+        <item>
+            Zootopia mengangkat tema persahabatan dan perbedaan dalam dunia hewan antropomorfik di kota modern Zootopia.
+            Cerita ini menyentuh isu-isu sosial dengan cara yang menghibur dan mendidik.
+        </item>
+        <item>
+            The Little Mermaid mengikuti petualangan Ariel, putri duyung yang ingin menjelajahi dunia manusia dan
+            mengejar cintanya. Dengan musik yang indah, film ini membawa kita ke dalam dunia dongeng yang ajaib.
+        </item>
+    </string-array>
+    <integer-array name="movie_photo">
+        <item>@drawable/moana_cover</item>
+        <item>@drawable/lionking_cover</item>
+        <item>@drawable/frozen_cover</item>
+        <item>@drawable/toystory_cover</item>
+        <item>@drawable/beautybeast_cover</item>
+        <item>@drawable/aladdin_cover</item>
+        <item>@drawable/findingnemo_cover</item>
+        <item>@drawable/cinderella_cover</item>
+        <item>@drawable/zootopia_cover</item>
+        <item>@drawable/littlemermaid_cover</item>
+    </integer-array>
+    <string-array name="movie_duration">
+        <item>113 minutes</item>
+        <item>89 minutes</item>
+        <item>102 minutes</item>
+        <item>81 minutes</item>
+        <item>84 minutes</item>
+        <item>90 minutes</item>
+        <item>100 minutes</item>
+        <item>105 minutes</item>
+        <item>108 minutes</item>
+        <item>83 minutes</item>
+    </string-array>
+
+
+    <string-array name="movie_rating">
+        <item>7.6/10</item>
+        <item>8.5/10</item>
+        <item>7.4/10</item>
+        <item>8.3/10</item>
+        <item>8.0/10</item>
+        <item>8.0/10</item>
+        <item>8.1/10</item>
+        <item>7.6/10</item>
+        <item>8.0/10</item>
+        <item>7.6/10</item>
+    </string-array>
+</resources>
